@@ -1,0 +1,6 @@
+.ajuste-img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+  object-position: center;
+}
